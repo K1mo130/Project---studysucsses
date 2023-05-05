@@ -23,6 +23,3 @@ form.addEventListener('submit', function(event) {
 
   form.reset();
 });
-
-
-console.log("het werkt");
