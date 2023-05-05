@@ -133,6 +133,11 @@ main {
   border-radius: 15px;
 }
 
+#post-text {
+  resize: none;
+  overflow: auto;
+}
+
 /*      contact page       */
 .contact_border {
   height: 500px;
